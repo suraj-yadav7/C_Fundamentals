@@ -1,0 +1,12 @@
+To run C program
+first write gcc filename in terminal which complie the files.
+Then, secondly write ./a.exe in terminal to run the peogram
+
+//Everytime after changes write gcc filename.c in terminal
+then ./a.exe to complie the program.
+
+2. In language we don't have true or false, It has 1 and 0
+eg: if(4==4) => 1 
+eg: if(4 != 3) =>0
+
+3.Each file can have only one main functin which enovkes all other called function init.
